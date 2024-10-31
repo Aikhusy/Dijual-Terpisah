@@ -1,0 +1,39 @@
+{
+    "Driver": "ODBC Driver 17 for SQL Server",
+    "Server": "DESKTOP-E5QF6IJ",
+    "Database": "dbo_checkpoint_firewall",
+    "Trusted_Connection": "no",
+    "UID":"sa",
+    "PWD":"abcde1234",
+    "Encrypt":"no",
+    "TrustServerCertificate":"no",
+    
+    "Invoke_Shell_Delay": 0.5,
+    "Run_Command_Delay": 0.7,
+    "Expert_Shell_Delay": 1,
+
+    "alert_status": false,
+
+    "Telegram_Alert_Status" : true,
+    "Telegram_Bot_API" :"6716626405:AAGrbNmB8CUpFSA-r57xS1eRAx2PuX2yZxc",
+    "Telegram_Chat_Id" : -1002394470457,
+    "Encrypt_Phrase" : "k*2ja6g3n1",
+
+    "ref_tbl_m_firewall" : "tbl_m_firewall",
+    "ref_tbl_m_run_token" : "tbl_m_run_token",
+    "ref_tbl_r_firewall_login" : "tbl_r_firewall_login",
+    "ref_tbl_t_firewall_capacity_optimisation" : "tbl_t_firewall_capacity_optimisation",
+    "ref_tbl_t_firewall_clusterxl" : "tbl_t_firewall_clusterxl",
+    "ref_tbl_t_firewall_contract" : "tbl_t_firewall_contract",
+    "ref_tbl_t_firewall_cpu" : "tbl_t_firewall_cpu",
+    "ref_tbl_t_firewall_current_status" : "tbl_t_firewall_current_status",
+    "ref_tbl_t_firewall_firewall_diskspace" : "tbl_t_firewall_diskspace",
+    "ref_tbl_t_firewall_failed_memory" : "tbl_t_firewall_failed_memory",
+    "ref_tbl_t_firewall_hotfix" : "tbl_t_firewall_hotfix",
+    "ref_tbl_t_firewall_liscense" : "tbl_t_firewall_liscense",
+    "ref_tbl_t_firewall_memory" : "tbl_t_firewall_memory",
+    "ref_tbl_t_firewall_raid" : "tbl_t_firewall_raid",
+    "ref_tbl_t_firewall_rxtx" : "tbl_t_firewall_rxtx",
+    "ref_tbl_t_firewall_uptime" : "tbl_t_firewall_uptime"
+}
+  
