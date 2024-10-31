@@ -1,0 +1,1 @@
+open console untuk mengecek program
